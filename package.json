@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/que-debes-saber",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a que-debes-saber",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/que-debes-saber.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/que-debes-saber-proxy-gratis/"
+    },
+    "homepage": "https://isproto.com/que-debes-saber-proxy-gratis/"
+}
